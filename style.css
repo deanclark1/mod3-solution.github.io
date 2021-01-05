@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.chicken{
+    background-color: gray;
+
+}
+.beef{
+    background-color: rgb(189, 189, 189);
+}
+.sushi{
+    background-color: gray;
+}
